@@ -1,0 +1,55 @@
+.t-center{
+	text-align:center;
+}
+.m-auto{
+	margin:0 auto;
+}
+.clearfix::before,.clearfix::after{
+    content:"";
+    height:0;
+    line-height:0;
+    display:block;
+    visibility:hidden;
+    clear:both;
+}
+.navbar{
+	margin-bottom:5px;
+	width:960px;
+	font-size:16px;
+	text-align:center;
+	color:#fff;
+}
+.navbar nav ul {
+	width:660px;
+	padding:0 150px;
+	float:left;
+	height:40px;
+	line-height:40px;
+	background:rgb(97, 186, 220);
+}
+ul li {
+	padding-left:26px;
+	float:left;
+	 list-style-type: none;
+}
+ul li a{
+	font-weight:500;
+}
+a:visited{
+
+}
+/*公告*/
+.sign-con{
+	margin:50px auto 0 ;
+	width:700px;
+	text-align:center;
+	border:1px solid #999;
+}
+.sign-con-title{
+	font-size:20px;
+}
+.sign-con-content{
+	height:30px;
+	line-height:30px;
+	border:1px solid #999;
+}

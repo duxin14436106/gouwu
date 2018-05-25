@@ -1,0 +1,57 @@
+.before-back{
+	margin:30px 0;
+	font-size:20px;
+	text-align:left;
+}
+.cut-line{
+	margin:15px 0;
+	width:800px;
+	height:0;
+	border:1px solid #999;
+}
+.before-back a{
+	color:#333;
+}
+.before-back a:hover{
+	color:rgb(89, 195, 234);
+}
+.before-back a:active{
+	color:rgb(89, 195, 234);
+}
+.bg-color{
+	width:800px;
+	height:35px;
+	background:rgb(89, 195, 234);
+
+}
+
+.discuss-style{
+	width:150px;
+	height:40px;
+}
+.discuss-shop{
+	text-align:center;
+}
+.discuss-shop a{
+color:#333;
+}
+/*.discuss-shop a:link{
+	color:#333;
+}
+.discuss-shop a:visited{
+	color:rgb(89, 195, 234);
+}*/
+.discuss-shop a:hover{
+	color:rgb(89, 195, 234);
+}
+.discuss-shop a:active{
+	color:#333;
+}
+.discuss-shop-page{
+	position:relative;
+	left:-100px;
+
+}
+.page-active{
+	color:rgb(89, 195, 234);
+}

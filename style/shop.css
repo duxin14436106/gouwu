@@ -1,0 +1,44 @@
+.shop-detail{
+	font-size:20px;
+	background:rgb(151,216,241);
+}
+.shop-shows{
+	width:950px;
+	text-align:center;
+	}
+.shop-shows td{
+	border:1px solid #999;
+}
+.good-goods{
+	margin:50px 0;
+	padding:0 80px;
+	float:right;
+	width:120px;
+	height:50px;
+	font-size:18px;
+	line-height:50px;
+	background:rgb(151,216,241);
+}
+.good-goods a:hover{
+color: #fff;
+}
+.good-goods a img{
+	margin-top:10px;
+	float:left;
+}
+.good-goods a span{
+
+	float:left;
+}
+.good-con{
+	width:200px;
+	height:40px;
+	outline:none;
+}
+.good-cons{
+	max-width:867px;
+	max-height:150px;
+	width:867px;
+	height:150px;
+	outline:none;
+}

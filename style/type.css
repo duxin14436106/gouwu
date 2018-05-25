@@ -1,0 +1,34 @@
+.type-banner{
+	margin:0 auto;
+	width:900px;
+	height:30px;
+	line-height:30px;
+	background:#59c3ea;
+	text-align:center;
+}
+.shop-buy{
+	margin:15px 170px 0;
+	display:inline-block;
+	width:300px;
+	height:40px;
+	line-height:40px;
+	font-size:18px;
+	text-align:center;
+	border:1px solid #999;
+	border-radius:8px;
+}
+.shop-buy:hover{
+	color:#FFF;
+	background:#59c3ea;
+}
+.shop-buy a:hover{
+	color:#FFF;
+	background:#59c3ea;
+}
+
+.no-goods{
+	margin:10px  auto 0;
+	width:850px;
+	font-size:18px;
+	text-align:center;
+}

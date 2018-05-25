@@ -1,0 +1,43 @@
+
+.user-brand{
+	margin-top: 3px;
+	display:inline-block;
+	width:260px;
+	height:33px;
+	font-size:25px;
+	line-height:30px;
+	color:#fff;
+	text-align:center;
+	background:#59c3ea;
+}
+.w700{
+	margin-top: 0;
+	width: 700px;
+}
+.top-center{
+	text-align: center;
+}
+.right-con{
+	margin-top:20px;
+	width:250px; 
+	height:auto;
+}
+.change-pwd{
+	margin-top:10px ;
+	font-size: 18px;
+	width: 120px;
+}
+.change-box{
+	margin-top:10px;
+	width: 250px;
+	height: 35px;
+	font-size: 18px;
+	text-align: center;
+	border-radius: 5px;
+	outline: none;
+}
+.change-button{
+	margin-top: 30px;
+	width: 130px;
+	height: 30px;
+}

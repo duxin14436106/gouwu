@@ -1,0 +1,114 @@
+form{
+	/*margin-top:50px;*/
+}
+.t-center{
+	text-align:center;
+}
+.form-top{
+	margin-top:100px;
+}
+.shop-edit,
+.shop-add,
+.shop-type,
+.shop-query,
+.user-edit,
+.add-adv{
+	font-size:28px;
+	text-align:center;
+}
+.shopmanage{
+	width:90px;
+	height:30px;
+	background:rgb(255,255,255);	
+}
+.shopmanages{
+	width:150px;
+}
+.shopnums{
+	font-size:20px;
+}
+.shop-page{
+	display:inline-block;
+	width:20px;
+	height:30px;
+	line-height:30px;
+	text-align:center;
+	border:1px solid #999;
+}
+/*shop-add*/
+.shop-add-content{
+	width:200px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+}
+.shop-add-right{
+	margin-left:50px;
+}
+.shop-intro{
+	max-width:700px;
+	max-height:150px;
+	width:700px;
+	height:150px;
+}
+.buttoncss{
+	width:80px;
+	height:30px;
+	border: 1px solid #999;
+}
+/*分类管理*/
+.shop-type-content{
+	width:300px;
+	height:50px;
+	line-height:50px;
+	text-align:center;
+}
+.shop-type-content a:hover{
+	text-decoration:none;
+}
+/*订单管理*/
+.view-order{
+	width:120px;
+	height:50px;
+	line-height:50px;
+	font-size:20px;
+	text-align:center;
+}
+
+/*用户管理*/
+.user-edit-menu{
+	height:40px;
+	line-height:40px;
+	font-size:20px;
+	text-align:center;
+}
+/*管理员修改密码*/
+.user-modify{
+	height:30px;
+	line-height:30px;
+	font-size:18px;
+	text-align:center;
+}
+.user-modify-right{
+	margin-left:30px;
+}
+/*评论*/
+.comments{
+	width:150px;
+	height:40px;
+	line-height:40px;
+}
+/*gonggao*/
+.gonggao-border{
+	width: 80px;
+	height: 30px;
+	border: solid 1px #999;
+}
+.gonggao-but{
+	display: inline-block;
+	margin: 10px 20px;
+}
+.gonggao-back{
+	width: 80px;
+height: 30px;
+}
